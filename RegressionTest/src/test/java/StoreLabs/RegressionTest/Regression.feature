@@ -19,7 +19,7 @@
  Scenario Outline: User can sign-up with valid and unique credentials
  Given: User is on sign-up screen of the application
  When: Input valid credentials First Name <First Name>, Last Name <Last Name>, Email <Email>, Password <Password> 
-       and Confiem Password <Confirm Password>
+       and Confirm Password <Confirm Password>
  When: Tap on sign up button
  Then: User completes sign up
  
