@@ -352,7 +352,7 @@ Examples:
         Last Name<Last Name>, Company<Company> and PhoneNumber<PhoneNumber>
  And:   Select non-available Country<Country> and Province <Province> from dropdown list
  And:   Tap Save button
- Then:  Error message "Not available" is shown
+ Then:  Error message "Not available in this country" is shown
  
  Examples: 
 |Address      |  Apartment  |  City         |  Country       |Province    |  ZipCode  |  First Name  | Last Name  | Company    |  PhoneNumber  |
