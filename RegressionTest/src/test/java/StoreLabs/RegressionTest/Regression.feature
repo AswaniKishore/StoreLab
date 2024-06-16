@@ -105,6 +105,7 @@ Examples:
  And:   Tap Sign up button
  Then:  Pop up message appears saying user to login 
  
+ Examples:
  
       |First Name  |  Last Name   |  Email                |  Password |  Confirm Password |
       |Timm        |  Son         | timson@gmail.com      |  Hello123 |  Hello123         | 
