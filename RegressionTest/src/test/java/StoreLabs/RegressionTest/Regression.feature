@@ -70,7 +70,7 @@ And:   Again try to enter First Name <First Name>, Last Name <Last Name>, Email 
        and Confirm Password <Confirm Password>
 Then:  Can enter characters again in each text boxes
 
-
+Examples: 
       |First Name  |  Last Name   |  Email                |  Password |  Confirm Password |
       |Ted         |  Jack        | tedjack@gmail.com     |  Hello123 |  Hello123         | 
  
