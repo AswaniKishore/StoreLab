@@ -5,7 +5,7 @@
  @Background
  Given: Storelab Android application is installed
 
- ##Test case ID's are commented which is same as in the Test Plan document https://docs.google.com/spreadsheets/d/1Bgpt5_5uREdOD3mH06wbfb6540OVi9XV1om2bEy8sCk/edit?gid=0#gid=0
+ ##Test case ID's are commented which are same as those in Test Plan document https://docs.google.com/spreadsheets/d/1Bgpt5_5uREdOD3mH06wbfb6540OVi9XV1om2bEy8sCk/edit?gid=0#gid=0
  @Regression 
 ## TC_01
  Scenario: User can sign-up with valid and unique credentials
